@@ -1,0 +1,86 @@
+header {
+    text-align: center;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    margin: 10px 15%;
+    padding: 3px;
+    font-family: 'Times', serif;
+    font-variant: small-caps;
+    border-right: 15px solid;
+}
+
+body {
+    font: 'Times New Roman', serif;
+    background-image: url(WidgetCoLogo.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+aside {
+    text-align: right;
+    margin-right: 213px;
+    border-right: 15px solid;
+    margin-top: -10px;
+    padding-inline: 10px;
+    border-color: rgb(83, 78, 118);
+}
+
+aside::first-line {
+    font-weight: bold;
+    line-height: 23px;
+}
+
+article {
+    text-align: justify;
+}
+
+p {
+    padding-inline: 300px;
+    line-height: 23px;
+}
+
+h1{
+    text-align: left;
+    padding-left: 200px;
+    padding-right: 350px;
+    font-size: 45px;
+    text-wrap: left;
+    margin-top: -100px;
+}
+
+h2 {
+    text-align: center;
+    padding: 5px;
+    font-style: italic;
+    padding-inline: 305px;
+}
+
+section {
+    margin: 5px 21%;
+    text-align: justify;
+    padding: 10px;
+    line-height: 20px;
+    border: solid;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-right-width: 4px;
+    border-left-width: 45px;
+    border-spacing: 30px;
+    border-color: rgb(0, 111, 0);
+    background-color:rgb(255, 252, 231)
+}
+
+footer {
+    border-top: 1px solid;
+    margin: 10px 15%;
+    color:darkgray;
+    font-size: 14px;
+    font-style: italic;
+    text-align: right;
+    padding: 2px;
+    box-sizing: content-box;
+}
+
+footer a:link {
+    color:rgb(134, 134, 134);
+}
