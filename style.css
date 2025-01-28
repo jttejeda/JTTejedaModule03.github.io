@@ -22,7 +22,7 @@ aside {
     border-right: 15px solid;
     margin-top: -10px;
     padding-inline: 10px;
-    border-color: rgb(83, 78, 118);
+    border-color: rgb(28, 95, 142);
 }
 
 aside::first-line {
@@ -66,7 +66,7 @@ section {
     border-right-width: 4px;
     border-left-width: 45px;
     border-spacing: 30px;
-    border-color: rgb(0, 111, 0);
+    border-color: rgb(0, 28, 111);
     background-color:rgb(255, 252, 231)
 }
 
